@@ -1,0 +1,1 @@
+# ansible-role-compliance-windows-password-policy-2019
