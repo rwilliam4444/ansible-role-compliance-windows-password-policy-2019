@@ -41,6 +41,4 @@ __approved_windows_ver__ |2019| approved windows version for this role.
 
 
 # Author Information:
-Richard M. Williams
-
-rmwill@us.ibm.com
+Richard M. Williams (williamsitv@yahoo.com)
