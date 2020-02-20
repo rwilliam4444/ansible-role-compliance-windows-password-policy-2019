@@ -2,8 +2,8 @@ galaxy_info:
   author: Richard M. Williams
   role_name: ansible-role-compliance-windows-password-policy-2019
   description: Check & Remediation for the 2019 Wndws Psswrd Policy CIS section
-  company: IBM Corp
-  license: IBM Intellectual Property
+  company: 
+  license: 
   min_ansible_version: 1.8
   platforms:
   - name: Windows
